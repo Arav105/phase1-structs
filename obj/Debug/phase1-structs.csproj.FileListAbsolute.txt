@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-structs\phase1-structs\bin\Debug\phase1-structs.exe.config
+C:\Users\Admin\source\repos\phase1-structs\phase1-structs\bin\Debug\phase1-structs.exe
+C:\Users\Admin\source\repos\phase1-structs\phase1-structs\bin\Debug\phase1-structs.pdb
+C:\Users\Admin\source\repos\phase1-structs\phase1-structs\obj\Debug\phase1-structs.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-structs\phase1-structs\obj\Debug\phase1-structs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-structs\phase1-structs\obj\Debug\phase1-structs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-structs\phase1-structs\obj\Debug\phase1-structs.exe
+C:\Users\Admin\source\repos\phase1-structs\phase1-structs\obj\Debug\phase1-structs.pdb
